@@ -1751,6 +1751,7 @@ nowy wpis
 - [Lfh404](https://github.com/Lfh404)
 - [Thuany Soares](https://github.com/Thurunany)
 - [Kenneth Afegbai A](https://github.com/kennethafegbai)
+- [Ankit Singh](https://github.com/itsankitksingh)
 - [Debojit Pushilal](https://github.com/Evoder15)
 - [Deepak Singh](https://github.com/deepak427)
 - [MSweeley](https://github.com/MSweeley/)
