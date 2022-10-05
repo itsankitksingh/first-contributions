@@ -2258,6 +2258,7 @@ nowy wpis
 - [Trina Ngo] (https://github.com/thngo2)
 - [Siddhesh Dandekar](https://github.com/Siddhesh-Dandekar)
 - [Pyoush Madan](https://github.com/pyoushmadan10)
+- [Ankit Singh](https://github.com/itsankitksingh)
 - [Albin T T](https://github.com/axtr897)
 - [Kiran Thilak](https://github.com/kiran-thilak)
 - [Samir Gayatri](https://github.com/gayatri19670)
